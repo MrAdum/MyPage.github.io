@@ -3212,7 +3212,7 @@ table.alt tbody tr td {
 
 #header.alt .welcome {
 	position: relative;
-	top: 60vh;
+	top: 15vh;
 }
 
 @media screen and (max-width: 1280px) {
